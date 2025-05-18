@@ -79,6 +79,13 @@ header p {
   background-color: #f9f9f9;
   transition: transform 0.2s ease;
 }
+.project-card img{
+  width: 100%;
+  height: 120px; /* ou ajuste para 100px, 80px, como preferir */
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 0.8rem;
+}
 
 .project-card:hover {
   transform: translateY(-5px);
