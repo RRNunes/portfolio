@@ -7,7 +7,7 @@
 
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #f3f3f3;
+  background-color: #faf8f8;
   color: #111111;
   padding: 2rem;
   line-height: 1.6;
@@ -56,7 +56,7 @@ header p {
 }
 
 .buttons a:hover {
-  background-color: #f1f1f1;
+  background-color: #ffffff;
 }
 
 /* Seção de projetos */
